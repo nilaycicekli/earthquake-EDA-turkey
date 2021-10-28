@@ -5,7 +5,7 @@ An exploratory earthquake analysis of earthquakes in Turkey. And use of machine 
 
 This project is made for the Data Mining Course that I was taking during my bachelor's degree at Işık University.
 
-I also have written an article (unpublished) with the help of my instructor. You can read it here.
+I also have written an article (unpublished) with the help of my instructor. You can read it here. It involves the methods used, experiments conducted and the results obtained throughout this study.
 
 ## About Data
 
